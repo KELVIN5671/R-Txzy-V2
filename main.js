@@ -56,7 +56,7 @@ if (opts['server']) require('./server')(global.conn, PORT)
 
 if (opts['test']) {
   conn.user = {
-    jid: '2219191@s.whatsapp.net',
+    jid: '081523783262@s.whatsapp.net',
     name: 'test',
     phone: {}
   }
